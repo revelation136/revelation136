@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @revelation136
+- 👋 Hi, I’m @jones
 - 👀 I’m interested in javascript and python
-- 🌱 I’m currently learning javascript and python
+- 📖 I'm a self-taught Web Developer
+- 🌱 I’m currently learning Django with JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram: @jones136
 
